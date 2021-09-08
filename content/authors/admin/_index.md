@@ -51,4 +51,4 @@ I am a lecturer of sociology and research methods at the University of Zambia. I
 
 I have a passion for teaching research methods software to new beginers. I have taught at the highest level in Scotland and in Africa. I teach mainly R statistical programming, Stata, IBM SPSS, LaTeX, R Markdown, SQL among others
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Simona-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
