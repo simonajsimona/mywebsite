@@ -47,8 +47,8 @@ superuser: true
 title: Dr. Simona Simona
 ---
 
-I am a lecturer of sociology and research methods at the University of Zambia. I am interested in studying social phenomena as it occurs in the natural environment. I am also interested in the social systems and the concept of emergence in how propaties come about at the aggregate level.
+I am a lecturer of and research expert at the University of Zambia. I am interested in studying structural sources of disparities in social and health outcomes. I also study how emergence properties develop from micro-level actions and interactions within social systems. My areas of substantive applications include structural violence, global health, mental health gender relations, maternal health care among others 
 
-I have a passion for teaching research methods software to new beginers. I have taught at the highest level in Scotland and in Africa. I teach mainly R statistical programming, Stata, IBM SPSS, LaTeX, R Markdown, SQL among others
+I have also developed a passion for teaching research methods and software for data analysis to beginners. I have taught several courses and workshops in the United Kingdom and Africa. I mainly use R statistical programming, Stata, IBM SPSS, LaTeX, R Markdown and SQL among others
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Simona-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
