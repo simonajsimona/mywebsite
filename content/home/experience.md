@@ -21,6 +21,38 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+experience:
+  - title: Lecturer
+    company: University of Zambia
+    company_url: ''
+    company_logo: ''
+    location: Lusaka, Zambia
+    date_start: '2021-04-01'
+    date_end: ''
+    description: |2-
+        Responsibilities included the following:
+        
+        * Research and consultancy
+        * Teaching: Social Science Research Methods, Data Science, Social Statistics, Social Theory 
+        * Community service 
+
+experience:
+  - title: Postdoctoral Research Associate Teaching 
+    company: University of Glasgow
+    company_url: ''
+    company_logo: org-gc
+    location: Glasgow, United Kingdom
+    date_start: '2020-04-01'
+    date_end: '2021-06-30'
+    description: |2-
+        Responsibilities included the following:
+        
+        * Data Mobilization and Management with SQL
+        * Statistical Programming with R
+        * Quest Lecturer in Quantitative Methods  
+        
+
 experience:
   - title: Graduate Teaching Assistant (GTA)
     company: University of Glasgow
