@@ -22,28 +22,43 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Teaching Assistant (GTA)
+    company: University of Glasgow
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Glasgow, United Kingdom
+    date_start: '2017-04-01'
+    date_end: '2019-04-30'
+    description: |2-
+        Taught in the ollowing courses:
+        
+        * Research Design (Postgraduate)
+        * Quantitative Data Analysis with R (Postgraduate)
+        * Quantitative Research Methods in the Social Sciences with IBM SPSS (Honors)  
+        * Quantitative Mthods (I and II)
+
+  - title: Lecturer
+    company: University of Zambia
+    company_url: 'unza.zm'
+    company_logo: org-gc
+    location: Lusaka, Zambia
+    date_start: '2013-09-06'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Individual and collaborative research
+        * Teaching Introduction to sociology, research methods and statistics
+        * Community engagement 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Staff Development Fellow (SDF)
+    company: University of Zambia
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Lusaka, Zambia
+    date_start: '2009-09-06'
+    date_end: '2013-09-05'
+    description: Assistant Lecturer and Tutor.
 
 design:
   columns: '2'
