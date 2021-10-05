@@ -34,11 +34,11 @@ experience:
         Responsibilities included the following:
         
         * Research and consultancy
-        * Teaching: Social Science Research Methods, Data Science, Social Statistics, Social Theory 
+        * Teaching Social Science Research Methods, Data Science, Social Statistics, Social Theory 
         * Community service 
 
 experience:
-  - title: Postdoctoral Research Associate Teaching 
+  - title: Postdoctoral Research Associate  
     company: University of Glasgow
     company_url: ''
     company_logo: org-gc
@@ -62,12 +62,12 @@ experience:
     date_start: '2017-04-01'
     date_end: '2019-04-30'
     description: |2-
-        Taught in the ollowing courses:
+        Taught in the following courses:
         
         * Research Design (Postgraduate)
         * Quantitative Data Analysis with R (Postgraduate)
         * Quantitative Research Methods in the Social Sciences with IBM SPSS (Honors)  
-        * Quantitative Mthods (I and II)
+        * Quantitative Methods (I and II)
 
   - title: Lecturer
     company: University of Zambia
